@@ -6,3 +6,5 @@ Aprendendo Git
 
 
 meu conflito 
+
+Texto aleatório <=========
