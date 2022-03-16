@@ -2,6 +2,4 @@
 
 Aprendendo Git
 
-Gerando Conflito
-
-Meu conflito
+ Gerando Conflito!
