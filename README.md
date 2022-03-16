@@ -1,5 +1,7 @@
 # AulaDecola
 
-Aprendedndo Git
+Aprendendo Git
+
+Gerando Conflito
 
 Meu conflito
