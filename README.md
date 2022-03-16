@@ -1,3 +1,3 @@
 # AulaDecola
 
-Aprendedndo Git
+Aprendendo Git
